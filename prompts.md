@@ -21,3 +21,6 @@
 - **Asked:** Help make a website link in GitHub.
   **Changed:** Prepared manual GitHub Pages publishing steps and instructions for adding the live URL to the repository's Website field. No GitHub settings were changed.
   **Worked:** Pending; GitHub Pages must be enabled in the repository settings.
+- **Asked:** Explain how to add the live URL to GitHub.
+  **Changed:** Prepared direct steps for entering the Pages URL in the repository's About > Website field; no GitHub settings were changed.
+  **Worked:** Pending; the user must save the repository setting.
