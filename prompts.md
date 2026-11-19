@@ -20,7 +20,10 @@
   **Worked:** Yes; the initial commit was created successfully.
 - **Asked:** Help make a website link in GitHub.
   **Changed:** Prepared manual GitHub Pages publishing steps and instructions for adding the live URL to the repository's Website field. No GitHub settings were changed.
-  **Worked:** Pending; GitHub Pages must be enabled in the repository settings.
+  **Worked:** A later check confirmed GitHub Pages is live and the repository About section contains the site link.
 - **Asked:** Explain how to add the live URL to GitHub.
   **Changed:** Prepared direct steps for entering the Pages URL in the repository's About > Website field; no GitHub settings were changed.
-  **Worked:** Pending; the user must save the repository setting.
+  **Worked:** A later check confirmed the site URL loads and is listed in the repository About section.
+- **Asked:** Find the links and steps to submit the in-class assignment properly.
+  **Changed:** Located the official in-class instructions and Learning Suite entry point, confirmed the GitHub Pages URL is live, and identified the local `index.html` to upload.
+  **Worked:** Yes; the assignment submission instructions and required links were identified. The user must complete the Learning Suite upload and comment.
