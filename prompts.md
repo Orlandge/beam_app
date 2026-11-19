@@ -18,3 +18,6 @@
 - **Asked:** Automatically commit changes from now on.
   **Changed:** Added a project instruction to commit validated task changes locally, without pushing or including unrelated changes. Created the initial commit containing the current project files and this instruction.
   **Worked:** Yes; the initial commit was created successfully.
+- **Asked:** Help make a website link in GitHub.
+  **Changed:** Prepared manual GitHub Pages publishing steps and instructions for adding the live URL to the repository's Website field. No GitHub settings were changed.
+  **Worked:** Pending; GitHub Pages must be enabled in the repository settings.
